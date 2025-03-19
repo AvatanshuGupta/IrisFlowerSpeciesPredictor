@@ -82,7 +82,7 @@ def action():
   result_label.image = species_image
  
  except:
-  print("enteer csc")
+  print("Enter Values In Correct Format")
    
 
 #Getting Data from User

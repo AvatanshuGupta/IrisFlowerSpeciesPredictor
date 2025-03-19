@@ -33,5 +33,8 @@ A **correlation matrix** was generated to understand the relationships between d
 
 **Key Observations:**  
 - **Petal Length and Petal Width** have the strongest correlation.  
-- **Sepal Width** shows a weaker correlation with other features. 
+- **Sepal Width** shows a weaker correlation with other features.
+
+## How To Open The Project File
+To use the model and get predictions, open the file named **ModelUi.py** in the main folder
 

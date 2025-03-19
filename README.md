@@ -37,4 +37,11 @@ A **correlation matrix** was generated to understand the relationships between d
 
 ## How To Open The Project File
 To use the model and get predictions, open the file named **ModelUi.py** in the main folder
-
+## Dependencies Required
+-pandas
+-numpy 
+-sklearn.preprocessing (LabelEncoder)
+-sklearn.model_selection (train_test_split)
+-sklearn.linear_model (LogisticRegression)
+-tkinter
+-PIL (Image,ImageTk)
